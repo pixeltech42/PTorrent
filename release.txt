@@ -1,0 +1,1 @@
+1 1.0 https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.0-b1.apk
