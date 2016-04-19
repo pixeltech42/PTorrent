@@ -1,11 +1,10 @@
 
 #PTorrent Search Mate
-PTorrent Search Mate and helps users to search for torrents and send them to PTorrent Lite/Pro, for downloading.
-Earlier, this search was available inside PTorrent Lite/Pro. But we had to remove it from PTorrent Lite/Pro to comply with google developer policy.
+PTorrent Search Mate helps users to search for torrents and send them to PTorrent Lite/Pro, for downloading.
+Earlier, this search was available inside PTorrent Lite/Pro. But it had to be removed from PTorrent Lite/Pro to comply with google developer policy.
 
-Download PTorrent Search Mate here:
+PTorrent Search Mate Download link: <a href='https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.0-b1.apk'> PTorrent Search Mate </a>
 
-https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.0-b1.apk
 
 #PTorrent Lite/Pro
 PTorrent is a simple and beautiful (P2P) torrent downloader for Android devices. 
@@ -34,7 +33,7 @@ Features:
 - Shutdown App after download.
 - Shutdown App on low battery
 
-This version is supported by Ads.
+PTorrent Lite version is supported by Ads.
 PTorrent Pro is Ad-free.
 
 Team PixelTech
