@@ -1,1 +1,1 @@
-902 1.1 https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.1-b902.apk
+902 1.2 https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.2-b957.apk
