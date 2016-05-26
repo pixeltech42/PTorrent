@@ -28,7 +28,7 @@ Features:
 - Magnet link support, tracker less (DHT) support
 - NAT-PMP and UPnP support
 - Proxy (SOCKS, HTTP) support
-- Files support up to 4GB
+- Support files sizes more than 4GB
 - Watch incoming directories for torrent files to download them automatically
 - Move completed torrents to pre-configured directory
 - Notification of completed torrents
