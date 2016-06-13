@@ -1,5 +1,5 @@
 
-#PTorrent Search Mate
+#PTorrent Search Mate ***(Imporant)
 Using PTorrent Search Mate, you can search for torrents and send them to PTorrent Lite/Pro, for downloading.
 Earlier, this search was available inside PTorrent Lite/Pro. But it had to be removed from PTorrent Lite/Pro to comply with google developer policy.
 
