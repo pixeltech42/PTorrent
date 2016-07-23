@@ -1,9 +1,9 @@
 
-#PTorrent Search Mate ***(Imporant)
+#!!! ALTERNATIVE !!! PTorrent Search Mate
 Using PTorrent Search Mate, you can search for torrents and send them to PTorrent Lite/Pro, for downloading.
 Earlier, this search was available inside PTorrent Lite/Pro. But it had to be removed from PTorrent Lite/Pro to comply with google developer policy.
 
-Download link: <a href='https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.2-b957.apk'> PTorrent Search Mate </a>
+Download link: <a href='https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.3-b974.apk'> PTorrent Search Mate </a>
 
 It works only with PTorrent Lite/Pro Version 1.1.7 or above (Update/Install PTorrent using links given at bottom)
 
